@@ -1,0 +1,1 @@
+<?php /**PATH G:\xampp\htdocs\Blaan_Multi_Role\resources\views/components/application-logo.blade.php ENDPATH**/ ?>

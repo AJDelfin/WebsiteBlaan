@@ -1,0 +1,2 @@
+flask_api/results/**/*.pt filter=lfs diff=lfs merge=lfs -text
+flask_api/results/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
